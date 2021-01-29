@@ -49,4 +49,4 @@ NOTE: "./credentials.json" is an array
     },
 ]
 
-5.) INSTALL NODE and RUN NODE . or node index.js from terminal
+5.) INSTALL NODE and RUN 'NODE .' or 'node index.js' from terminal after having navigated to the root folder.
